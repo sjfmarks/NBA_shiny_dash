@@ -1,0 +1,10 @@
+name: nba_shiny_dash
+title:
+username:
+account: sjfmarks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 335152
+bundleId: 1350047
+url: https://sjfmarks.shinyapps.io/nba_shiny_dash/
+when: 1525205989.68991
